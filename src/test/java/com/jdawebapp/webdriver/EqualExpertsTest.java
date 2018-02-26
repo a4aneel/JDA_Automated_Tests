@@ -106,7 +106,7 @@ public class EqualExpertsTest {
                 deleteButtons.get(i).click();
 
         }
-
+        driver.quit();
         }
     }
 
